@@ -1,4 +1,4 @@
-# Whatsapp-Clone
+# ChatCove
 
 ## 🤖Tech-Stack
 
